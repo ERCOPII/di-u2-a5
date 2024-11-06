@@ -25,4 +25,5 @@ function Avatar({ person }) {
     />
   );
 }
-
+// Corección: Eliminacion de currentPerson, que causaba confusion entre los perfiles.
+// Ahora header y avatar reciben person.
