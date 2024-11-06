@@ -61,4 +61,14 @@
     width: 70px;
     height: 100px;
   }
+
+  .night {
+    background: black;
+    color: white;
+  }
+
+  .day {
+    background-color: white;
+    color: black;
+  }
   
